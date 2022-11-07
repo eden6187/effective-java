@@ -1,2 +1,5 @@
-package chapter5;public class InfiniteStreamExample {
+package chapter5;
+
+public class InfiniteStreamExample {
+
 }

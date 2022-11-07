@@ -1,2 +1,4 @@
-package chapter6;public class Reducing {
+package chapter6;
+
+public class Reducing {
 }
